@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom List</string>
+    <string name="dt">Date</string>
+    <string name="nm">Name</string>
+</resources>
